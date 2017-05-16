@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteIoCContainer", "LiteIoCContainer\LiteIoCContainer.csproj", "{A90089F3-CE21-4F80-875E-E4F6884E8305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteIoCContainerTests", "LiteIoCContainerTests\LiteIoCContainerTests.csproj", "{C926B111-97E3-4BDC-BC96-687973D233B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90089F3-CE21-4F80-875E-E4F6884E8305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90089F3-CE21-4F80-875E-E4F6884E8305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90089F3-CE21-4F80-875E-E4F6884E8305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90089F3-CE21-4F80-875E-E4F6884E8305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C926B111-97E3-4BDC-BC96-687973D233B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C926B111-97E3-4BDC-BC96-687973D233B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C926B111-97E3-4BDC-BC96-687973D233B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C926B111-97E3-4BDC-BC96-687973D233B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
